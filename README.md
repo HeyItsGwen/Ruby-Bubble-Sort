@@ -15,7 +15,7 @@ The technologies used for this projectwere Github and Ruby.
 
 ## About us
 
-OUT GITHUB PROFILES <br>
-[Gwen](https://github.com/HeyItsGwen)
+OUR GITHUB PROFILES <br>
+[Gwen](https://github.com/HeyItsGwen)<br>
 [Frederico](https://github.com/frederico-miranda)
 
